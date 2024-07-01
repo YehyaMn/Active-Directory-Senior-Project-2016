@@ -73,7 +73,7 @@ This project was created in 2016 as a part of my senior project. it involves set
 
 ## Additional Notes
 
-- Any additional information or considerations.
+- Additional information or considerations.
 
 ## References
 
